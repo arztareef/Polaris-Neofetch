@@ -4,7 +4,8 @@ Polaris Neofetch is a shell script i have made on my own for a Linux Distro call
 Polaris Linux is an Open-Source & Arch Based Linux distro that is coming soon.
 
 
-Things i have done for the project: [Website](https://polaris-linux-distro.github.io/)
+Things i have done for the project: 
 
 [Github](https://github.com/polaris-linux-distro) 
 [Discord](https://discord.gg/RtqfqayVDc)
+[Website](https://polaris-linux-distro.github.io/)
